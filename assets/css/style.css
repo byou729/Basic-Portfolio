@@ -9,6 +9,10 @@ header {
     border-color: #cccccc;
 }
 
+hr {
+    margin-left: 17%;
+}
+
 #myname {
     background: #4aaaa5;
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -90,9 +94,20 @@ h4 {
     padding-top: 5px;
 }
 
+div {
+    background-color: #4aaaa5;
+    height: 5px;
+    margin-left: 17%;
+}
+
+.clearfix::after {
+    clear: both;
+}
+
 footer {
     background-color: #666666;
     margin-left: 17%;
     padding-top: 20px;
     height: 50px;
+    width: 100%;
 }
