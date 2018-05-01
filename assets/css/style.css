@@ -22,13 +22,14 @@ hr {
     height: 50px;
     padding-top: 20px;
     color: #ffffff;
-    margin-left: 17%;
+    margin-left: 12.5%;
     float: left;
 }
 
 h3 {
     height: 50px;
     padding-top: 20px;
+    margin-left: 12.5%;
     text-align: right;
 }
 
